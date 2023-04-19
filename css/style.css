@@ -1,0 +1,26 @@
+.content {
+    text-align: center;
+}
+
+.content h1 {
+    font-family: Impact;
+    font-size: 80px;
+}
+
+.content p {
+    font-size: 35px;
+    width: 80%;
+    margin: 50px auto;
+}
+
+.content button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    transition: 0.3s background-color;
+}
+
+.content button:hover {
+    background-color: green;
+}
